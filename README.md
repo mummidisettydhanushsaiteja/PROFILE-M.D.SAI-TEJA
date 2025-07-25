@@ -7,7 +7,7 @@
 
 - 🔭 &nbsp; I’m currently learning Deep learning & Cybersecurity
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Pursuing Undergraduation in Artificial Intelligence & Data Science.
+- 🎓 &nbsp; Pursuing M Tech in Computer Science.
 - 💼 &nbsp; Data analytics,Full Stack Web Developer.
 - 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
 - ✍️ &nbsp; Hover over construction & college management
